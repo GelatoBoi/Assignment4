@@ -1,3 +1,3 @@
-# Assignment 4
+# Lab 6
 Uploading wordpress playground to github.io
-[Edit Here](https://diy-pwa.com/~/gh/GelatoBoi/Final221)
+[Edit Here](https://diy-pwa.com/~/gh/GelatoBoi/Lab6)
